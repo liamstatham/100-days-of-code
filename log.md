@@ -1,29 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Jan 01, Friday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Focusing on continuing to build a foundation in Python using FreeCodeCamp. Begining with: Objects : https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/objects-a-sample-class
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+** Learnt **
 
-**Link to work:** [Calculator App](http://www.example.com)
+- Objects
+    - Class (A template)
+    - Atribute (A variable within a class)
+    - Method (A function within a class)
+    - Object (A particular instance of a class)
+    - Constructor (Code that runs when an object is created)
+    - Inheritance (The ability to extend a class to make a new class)
+    
+- Where I got too...
+    I managed to get to the database part of PY4E during James's nap! Maybe i'll get to do somemore when he has gone to sleep.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I really want to improve my coding, as an expert in SQL with an interest in data I want to be able to manipulate the data in different ways. Potentially with a view to data viz or data analysis. Maybe even to create actual software. 
+I am struggling with time, due to looking after a toddler. 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
