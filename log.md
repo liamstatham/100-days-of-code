@@ -41,4 +41,17 @@ Signing off @ 21:30.
 
 - Where I got too...
     - Managed to get a quick 30 mins in during James's nap and before Preston V Forest. 
+    - Further database modelling theory, new SQLite db created with many to many relationships and lookup tables (junction tables). 
+    - Signing off @ 14:36pm 
+    
+Examples to follow this evening/later:
+    https://www.youtube.com/watch?v=uQ3Qv1z_Vao
+    https://www.youtube.com/watch?v=qEkUEAz8j3o
+    https://www.youtube.com/watch?v=I-E7avcPeSE
+    https://www.youtube.com/watch?v=RZRAoBFIH6A
+    https://www.youtube.com/watch?v=xBaJddvJL4A
+    
+- Next topic
+    - https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/visualizing-data-with-python
+    (looking forward to this one).
     
