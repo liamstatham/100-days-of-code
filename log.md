@@ -25,7 +25,8 @@
     
     Tomorows starting point: https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-join-operation
 
-**Thoughts** I really want to improve my coding, as an expert in SQL with an interest in data I want to be able to manipulate the data in different ways. Potentially with a view to data viz or data analysis. Maybe even to create actual software. 
+Thoughts :
+I really want to improve my coding, as an expert in SQL with an interest in data I want to be able to manipulate the data in different ways. Potentially with a view to data viz or data analysis. Maybe even to create actual software. 
 I am struggling with time, due to looking after a toddler. 
 
 Finding time late at night is also quite tiring, will be worse when I start work after the Christmas break next week. 
@@ -43,6 +44,11 @@ Signing off @ 21:30.
     - Managed to get a quick 30 mins in during James's nap and before Preston V Forest. 
     - Further database modelling theory, new SQLite db created with many to many relationships and lookup tables (junction tables). 
     - Signing off @ 14:36pm 
+    - Back online @ 20:20pm (with a dark hot chocolate) ready to do some excersizes. 
+        - Starting with https://www.youtube.com/watch?v=uQ3Qv1z_Vao
+        - Created example db and tested. Fully commented for future eval, uploading to github.
+        - Messed around with atom.io trying to link my github account, there's a bug that stops you from connecting to a github project if you already have one open on atom.io!
+        - Set up connecton to github db folder and pushed changes.
     
 Examples to follow this evening/later:
     https://www.youtube.com/watch?v=uQ3Qv1z_Vao
@@ -54,4 +60,10 @@ Examples to follow this evening/later:
 - Next topic
     - https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/visualizing-data-with-python
     (looking forward to this one).
-    
+
+Thoughts :
+Enjoyed learning about SQLite, a little different to T-SQL but still easy to familiarise with. Followed and creatd an example, but fully commented to show understanding and uploaded this to my repo under (DB). Will get used to spending an hour in the evening on coding, hopefully I will be able to wind down after.
+
+Signing off 21:30pm. bonne nuit. 
+------------------------------------------------------------------------
+### Day 3: Jan 03, Sunday
