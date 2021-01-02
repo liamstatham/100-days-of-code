@@ -33,3 +33,12 @@ Signing off @ 21:30.
 ------------------------------------------------------------------------
 
 ### Day 2: Jan 02, Saturday
+
+### Project Idea:
+    - Web scraper to automatically pull details of Forest game stats into a database, which can then be used to create data viz.
+
+**Today's Progress**: Focusing on continuing to build a foundation in Python using FreeCodeCamp. Begining with: yesterdays end point - Relationahl databases. This is more of a recap as I am experienced with databases, SQL and app data. 
+
+- Where I got too...
+    - Managed to get a quick 30 mins in during James's nap and before Preston V Forest. 
+    
