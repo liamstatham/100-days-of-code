@@ -67,3 +67,13 @@ Enjoyed learning about SQLite, a little different to T-SQL but still easy to fam
 Signing off 21:30pm. bonne nuit. 
 ------------------------------------------------------------------------
 ### Day 3: Jan 03, Sunday
+
+**Today's Progress**: Signed on at 19:15. Continuing the Python & SQLite exercises, starting with https://www.youtube.com/watch?v=qEkUEAz8j3o (creating many to many tables with multiple FKs). Created the exercise and fully noted, uploaded to github DB repo. It parses through a JSON file and inserts the data into 3 different tables in a new SQLite db. Watched the other videos but do not want to use twitter API's and upload my keys to github...
+Began watching the dataviz videos, following through the code. 
+Further reading on d3.js required, looks interesting. 
+Data viz exercises are here listed beneath this video https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/visualizing-data-with-python
+
+Scientific computing with Python course is now 100% complete! Will need to go back and re-cover the examples. Been a good course. There are some projects to do too. 
+Signing off 20:30 (had a bad nights sleep last night, so trying to change routine. Hopefully I will be able to continue tomorrow as I am back at work.)
+
+### Day 4: Jan 04, Monday
