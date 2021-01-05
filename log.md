@@ -4,7 +4,7 @@
 
 **Today's Progress**: Focusing on continuing to build a foundation in Python using FreeCodeCamp. Begining with: Objects : https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/objects-a-sample-class
 
-** Learnt **
+**Learnt**:
 
 - Objects
     - Class (A template)
@@ -23,13 +23,13 @@
     (SQLite data lookup - https://www.py4e.com/lectures3/Pythonlearn-15-Database-Handout.txt)
     Created another relational database with foreign keys as an example.
 
-    Tomorows starting point: https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-join-operation
+    Tomorow's starting point: https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-join-operation
 
-Thoughts :
+**Thoughts**:
 I really want to improve my coding, as an expert in SQL with an interest in data I want to be able to manipulate the data in different ways. Potentially with a view to data viz or data analysis. Maybe even to create actual software.
 I am struggling with time, due to looking after a toddler.
-
 Finding time late at night is also quite tiring, will be worse when I start work after the Christmas break next week.
+
 Signing off @ 21:30.
 ------------------------------------------------------------------------
 
@@ -75,14 +75,14 @@ Data viz exercises are here listed beneath this video https://www.freecodecamp.o
 
 Scientific computing with Python course is now 100% complete! Will need to go back and re-cover the examples. Been a good course. There are some projects to do too.
 Signing off 20:30 (had a bad nights sleep last night, so trying to change routine. Hopefully I will be able to continue tomorrow as I am back at work.)
-
+------------------------------------------------------------------------
 ### Day 4: Jan 04, Monday
 
 **Today's Progress**: Feels like a big day, started my log file searcher project. I've uploaded the start to the master branch under folder "LogFileSearcher". It currently creates a SQLite database, with a relevant table, parses through each relevant line in the file and splits the line into relevant chunks; such as date, time, fromIP, full text etc. It's using the datetime module to convert the date and time strings into a datetime, so I can sort the database by time correctly. Really pleased with the challenges I've overcome today.
 Didn't continue the data viz examples as they were a bit boring.
 
 **Issues overcame**: Loop through a file with random line breaks in the wrong place. Count lines correctly, count parts of line correctly. Concat two string parts (year-month-date) and (time:time:time) and then convert to one datetime variable.
-
+------------------------------------------------------------------------
 ### Day 5: Jan 05, Tuesday
 
 **Today's Progress**: Worked some more on the log search project.
@@ -90,5 +90,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - Converted some to different types for the database
   - Added a SQL script to make sure that no duplicate files will be added to the database, this was a tricky one as there is often nothing specifically different between lines - so ended up using 3 pieces of information to make sure.
   - Added SQL to insert records into table
-  - Updated table to reflect relevant information in log file
-  - Tested with a small and full size log file. 
+  - Updated table to reflect relevant information in log file.
+  - Tested with a small and full size log file.
+  - Also trying to find a new tech blog to read in my downtime.
+
+**Issues overcame**: Finding the time!
+------------------------------------------------------------------------
+### Day 6: Jan 06, Wednesday
