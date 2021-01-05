@@ -81,6 +81,14 @@ Signing off 20:30 (had a bad nights sleep last night, so trying to change routin
 **Today's Progress**: Feels like a big day, started my log file searcher project. I've uploaded the start to the master branch under folder "LogFileSearcher". It currently creates a SQLite database, with a relevant table, parses through each relevant line in the file and splits the line into relevant chunks; such as date, time, fromIP, full text etc. It's using the datetime module to convert the date and time strings into a datetime, so I can sort the database by time correctly. Really pleased with the challenges I've overcome today.
 Didn't continue the data viz examples as they were a bit boring.
 
-**Issues overcame**: Loop through a file with random line breaks in the wrong place. Count lines correctly, count parts of line correctly. Concat two string parts (year-month-date) and (time:time:time) and then convert to one datetime variable. 
+**Issues overcame**: Loop through a file with random line breaks in the wrong place. Count lines correctly, count parts of line correctly. Concat two string parts (year-month-date) and (time:time:time) and then convert to one datetime variable.
 
 ### Day 5: Jan 05, Tuesday
+
+**Today's Progress**: Worked some more on the log search project.
+  - Split the lines into correct pieces of information and added each to a variable
+  - Converted some to different types for the database
+  - Added a SQL script to make sure that no duplicate files will be added to the database, this was a tricky one as there is often nothing specifically different between lines - so ended up using 3 pieces of information to make sure.
+  - Added SQL to insert records into table
+  - Updated table to reflect relevant information in log file
+  - Tested with a small and full size log file. 
