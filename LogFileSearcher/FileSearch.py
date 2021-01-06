@@ -24,7 +24,10 @@ fname = input('Enter file name: ')
 if len(fname) < 1: fname = 'u_ex210102.log'
 file = open(fname)
 
-records = 0
+#Variables for new and current records in the database
+newrecords = 0
+currentrecords = 0
+
 for lines in file:
 #splits file into lines beginging with 2021
     if not lines.startswith('2021'):continue
@@ -43,8 +46,6 @@ for lines in file:
     useragent = line[9]
     url = line[10]
     timetaken = int(line[16])
-#Number of records being added to table
-    records = records + 1
 #Add new records to table if they don't already exist in the database
     cur.execute('''SELECT Created, Method, UriStem FROM Logs WHERE Created = ? AND Method = ? AND UriStem = ?''', (dt, method, uristem))
     row = cur.fetchone()
@@ -53,11 +54,21 @@ for lines in file:
         '''INSERT INTO Logs (Created, Method, UriStem, UriQuery, Port, IP, UserAgent, URL, TimeTaken)
         VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?)''',
         (dt, method, uristem, uriquery, port, ip, useragent, url, timetaken))
+        newrecords = newrecords + 1
     else:
-        print(records)
+        currentrecords = currentrecords + 1
     conn.commit()
 
-print('Number of records added to database: ',records)
+print('Number of records already in the database: ',currentrecords)
+print('Number of records added to database: ',newrecords)
+
+
+
+#close database connection
+cur.close()
+
+
+
 #logfile info
 #Fields: (0 date) (1 time) (2 s-ip) (3 cs-method) (4 cs-uri-stem + cs-uri-query)
 #(6 s-port) (7 cs-username) (8 c-ip) (9 cs(User-Agent))
