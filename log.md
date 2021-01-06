@@ -97,3 +97,11 @@ Didn't continue the data viz examples as they were a bit boring.
 **Issues overcame**: Finding the time!
 ------------------------------------------------------------------------
 ### Day 6: Jan 06, Wednesday
+
+**Today's Progress**: Created another REPO in github to store my projects - 100DoC_Projects.
+  - Tidied the code and refactored parts
+  - Created a returnvalues function, which returns the next row after being fed the rowid
+  - Created a while loop to loop through all rows safely
+  - Feel like it's actually clicking.
+
+**Issues overcame**: Nothing, just learning trial and error!
