@@ -62,10 +62,20 @@ for lines in file:
 print('Number of records already in the database: ',currentrecords)
 print('Number of records added to database: ',newrecords)
 
-
+#Sql query to print top record
+response = input('Print top record? y or n: ')
+if response == 'y':
+    cur.execute('''SELECT * FROM Logs ORDER BY Created''')
+    print(cur.fetchone())
+else:
+    print('Program closing.')
+#Query to print next record - will need to associate rows and select next id.
+response = input('Next row? y')
+if response == 'y':
+    print(cur.fetchnextrow())
 
 #close database connection
-cur.close()
+    cur.close()
 
 
 
