@@ -105,3 +105,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - Feel like it's actually clicking.
 
 **Issues overcame**: Nothing, just learning trial and error!
+
+### Day 7: Jan 07, Thursday
+
+**Today's Progress**:
+  - Refactored more code, easily loops through rows and exits to next stage when required.
+  - Can now export rows to CSV, but trying to get it to export cleanly to xlsx is a bit of a pain.
+  - Program is looking better by the day, my knowledge in python3 keeps growing! 
