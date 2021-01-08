@@ -111,4 +111,16 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's Progress**:
   - Refactored more code, easily loops through rows and exits to next stage when required.
   - Can now export rows to CSV, but trying to get it to export cleanly to xlsx is a bit of a pain.
-  - Program is looking better by the day, my knowledge in python3 keeps growing! 
+  - Program is looking better by the day, my knowledge in python3 keeps growing!
+
+### Day 8: Jan 08, Friday
+
+**Today's Progress**:
+  - More work on the logfile project
+    - removed xlsx stuff, as I fixed the CSV writing to work correctly (and excel on my laptop!)
+    - Program now writes to CSV with correct row headers, formatting and no white space. using csvWrite module and newline=''
+    - increased speed of adding logs to sqlite database by setting isolation level as deferred (which is like running the whole thing as 1 tran) and turning journal_mode and synchronous off. 34k logs into database took 16mins+ down to 5 mins. Can still get faster, but may have to alter the variables I take from the log.
+    - Writes rapidly to CSV.
+
+  **Issues overcame**:
+    - Spent a lot of time fine tuning how the program writes to the database to make it more efficient without altering variables. 
