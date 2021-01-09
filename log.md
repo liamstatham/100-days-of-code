@@ -123,4 +123,16 @@ Didn't continue the data viz examples as they were a bit boring.
     - Writes rapidly to CSV.
 
   **Issues overcame**:
-    - Spent a lot of time fine tuning how the program writes to the database to make it more efficient without altering variables. 
+    - Spent a lot of time fine tuning how the program writes to the database to make it more efficient without altering variables.
+
+### Day 9: Jan 09, Saturday
+
+**Today's Progress**:
+  - More work on improving data writing to database speed.
+    - Removed some variables and left as dict numbers (same data, just more efficient)
+    - Removed database initial check and count of current rows as there's no need to do it. Added a drop table if exists and a create table if exists, to make the process more efficient.
+    - Reduced time it takes to add 33k log file records to database from 19mins to less than 5 seconds!
+    - V1 not far from complete, could add a search and filter down the CSV...
+    - Added try/except for file name for safe breaking
+    - added search function for URL and printing those results to csv
+    - Need to add more try/except for user input sections and then V1 complete.
