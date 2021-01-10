@@ -136,3 +136,13 @@ Didn't continue the data viz examples as they were a bit boring.
     - Added try/except for file name for safe breaking
     - added search function for URL and printing those results to csv
     - Need to add more try/except for user input sections and then V1 complete.
+
+### Day 10: Jan 10, Sunday
+
+**Today's Progress**:
+  - V1.0 of Filesearch.py is complete!
+    - Users can't break it with incorrect inputs.
+    - Splits log files into human readable format and pushes to a DB quickly.
+    - quick search and print results or full db to csv.
+    - Simple project, but I've learnt a lot and will be useful for me in a work context.
+    - Need to add a file path, as exe can only open files in current directory and I need it to jump up 1 directory.
