@@ -146,3 +146,21 @@ Didn't continue the data viz examples as they were a bit boring.
     - quick search and print results or full db to csv.
     - Simple project, but I've learnt a lot and will be useful for me in a work context.
     - Need to add a file path, as exe can only open files in current directory and I need it to jump up 1 directory.
+
+### Day 11: Jan 11, Monday
+
+**Today's Progress**:
+  - V1.0 is actually complete!
+    - Just need to document the process.
+    - Need to think of the next project now.
+
+  **Issues overcame**:
+    - Had to figure out how to find the current directory of the application file, and then use it's parent directory. As in use the application will be nested in it's own folder, in the logs folder. So the application now uses it's parents folder directory. Used both pathlib and os modules to do this.
+
+### Day 12: Jan 12, Tuesday
+
+**Today's Progress**:
+  - More updating v1.1 to get it to work with some other log files...
+  - More exe work
+  - started watching a video on numpi and pandas
+  - downloaded 6gb mbox file to start next projects
