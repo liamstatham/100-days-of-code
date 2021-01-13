@@ -164,3 +164,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - More exe work
   - started watching a video on numpi and pandas
   - downloaded 6gb mbox file to start next projects
+
+### Day 13: Jan 13, Wednesday
+
+**Today's Progress**:
+  - Started a new project, pulling strava data via API
+  - having to learn pandas and figure out json
+  - also thought of some more projects...
