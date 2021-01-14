@@ -171,3 +171,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - Started a new project, pulling strava data via API
   - having to learn pandas and figure out json
   - also thought of some more projects...
+
+### Day 14: Jan 14, Thursday
+
+**Today's Progress**:
+  - Strava data now pulls correctly to data frames
+  - data frames are appended and indexing is ignore_index
+  - Prints raw data to CSV 
