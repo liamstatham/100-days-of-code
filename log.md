@@ -175,6 +175,8 @@ Didn't continue the data viz examples as they were a bit boring.
 ### Day 14: Jan 14, Thursday
 
 **Today's Progress**:
-  - Strava data now pulls correctly to data frames
+  - Strava data now pulls correctly to data frames (stravaact.py)
   - data frames are appended and indexing is ignore_index
-  - Prints raw data to CSV 
+  - Prints raw data to CSV
+  - Using Pandas to transform raw data
+    Need to learn much more about pandas.
