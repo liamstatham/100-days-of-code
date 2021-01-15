@@ -187,4 +187,6 @@ Didn't continue the data viz examples as they were a bit boring.
   - Work on the log file project
       - Changed location of CSV file save, now saves to parent directory
       - Changed name of CSV file, now uses log file name
-      - Added input() to stop program closing straight away from exe 
+      - Added input() to stop program closing straight away from exe
+  - Spend some time working on Strava projects
+      - need to learn more about pandas
