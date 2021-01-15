@@ -180,3 +180,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - Prints raw data to CSV
   - Using Pandas to transform raw data
     Need to learn much more about pandas.
+
+### Day 15: Jan 15, Friday
+
+**Today's Progress**:
+  - Work on the log file project
+      - Changed location of CSV file save, now saves to parent directory
+      - Changed name of CSV file, now uses log file name
+      - Added input() to stop program closing straight away from exe 
