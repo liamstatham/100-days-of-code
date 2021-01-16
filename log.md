@@ -190,3 +190,9 @@ Didn't continue the data viz examples as they were a bit boring.
       - Added input() to stop program closing straight away from exe
   - Spend some time working on Strava projects
       - need to learn more about pandas
+
+### Day 16: Jan 16, Saturday
+
+**Today's Progress**:
+  - Mainly learning Python pandas and trying examples
+  - no project work done, but trying to use real life examples with the pandas learning
