@@ -196,3 +196,9 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's Progress**:
   - Mainly learning Python pandas and trying examples
   - no project work done, but trying to use real life examples with the pandas learning
+
+### Day 17: Jan 17, Sunday
+
+**Today's Progress**:
+  - Using pandas to change and manipulate my csv/dataframe in jupyter notebook
+  - A LOT of reading on jupyter/pandas and it's starting to make sense
