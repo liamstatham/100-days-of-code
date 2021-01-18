@@ -202,3 +202,10 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's Progress**:
   - Using pandas to change and manipulate my csv/dataframe in jupyter notebook
   - A LOT of reading on jupyter/pandas and it's starting to make sense
+
+### Day 18: Jan 18, Monday
+
+**Today's Progress**:
+  - I MADE A GRAPH
+  - Jupyter notebook and pandas work with my Strava dataviz
+  - Continued pandas learning
