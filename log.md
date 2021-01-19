@@ -209,3 +209,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - I MADE A GRAPH
   - Jupyter notebook and pandas work with my Strava dataviz
   - Continued pandas learning
+
+### Day 19: Jan 19, Tuesday
+
+**Today's Progress**:
+  - Loads of progress and learning how to manipulate data in dataframes
+  - Learning matplotlib and Pandas
+  - creating some graphs with my strava data is really interesting
