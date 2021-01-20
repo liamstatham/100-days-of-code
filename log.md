@@ -216,3 +216,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - Loads of progress and learning how to manipulate data in dataframes
   - Learning matplotlib and Pandas
   - creating some graphs with my strava data is really interesting
+
+### Day 20: Jan 20, Wednesday
+
+**Today's Progress**:
+  - Progress with seaborn and data viz
+  - more data manipulation with pandas
+  - more getting used to jupyter as a tool
