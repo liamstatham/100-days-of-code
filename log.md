@@ -223,3 +223,9 @@ Didn't continue the data viz examples as they were a bit boring.
   - Progress with seaborn and data viz
   - more data manipulation with pandas
   - more getting used to jupyter as a tool
+
+### Day 21: Jan 21, Thursday
+
+**Today's Progress**:
+  - Lots of progress with Pandas and numpy
+  - Will write some data manipulations into code when pulling to csv to make it easier to visualise against.
