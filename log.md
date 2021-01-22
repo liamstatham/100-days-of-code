@@ -229,3 +229,10 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's Progress**:
   - Lots of progress with Pandas and numpy
   - Will write some data manipulations into code when pulling to csv to make it easier to visualise against.
+
+### Day 22: Jan 22, Friday
+
+**Today's Progress**:
+  - New project Friday!
+  - Began webscraping and learning more HTML/CSS to work with BeautifulSoup
+  - Found some real help on FC python, mixing my love of football with coding!
