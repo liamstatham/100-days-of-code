@@ -236,3 +236,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - New project Friday!
   - Began webscraping and learning more HTML/CSS to work with BeautifulSoup
   - Found some real help on FC python, mixing my love of football with coding!
+
+### Day 23: Jan 23, Saturday
+
+**Today's Progress**:
+    - More web scraping with BeautifulSoup
+    - jupyter and laptop problems causing delays in learning!
+    - using transfermarkt website to help with webscraping learning.
+    
