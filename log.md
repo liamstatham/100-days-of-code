@@ -243,4 +243,10 @@ Didn't continue the data viz examples as they were a bit boring.
     - More web scraping with BeautifulSoup
     - jupyter and laptop problems causing delays in learning!
     - using transfermarkt website to help with webscraping learning.
-    
+
+### Day 24: Jan 24, Sunday
+
+**Today's Progress**:
+    - Moving through the data analysis videos on free code camp
+    - more work on web scraping, working on playing with instagram
+    - more jupyter learning. 
