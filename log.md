@@ -249,4 +249,11 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's Progress**:
     - Moving through the data analysis videos on free code camp
     - more work on web scraping, working on playing with instagram
-    - more jupyter learning. 
+    - more jupyter learning.
+
+### Day 25: Jan 25, Monday
+
+**Today's Progress**:
+  - Continuing through the data analysis lessons on FCC
+  - Made a start on the python certification on FCC
+      - using the projects to work on
