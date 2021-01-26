@@ -257,3 +257,9 @@ Didn't continue the data viz examples as they were a bit boring.
   - Continuing through the data analysis lessons on FCC
   - Made a start on the python certification on FCC
       - using the projects to work on
+
+### Day 26: Jan 26, Tuesday
+
+**Today's Progress**:
+  - Working on Arithmetic arranger project for FCC cert
+  - more list learning, very interesting. Should separate the sums before adding to a list...
