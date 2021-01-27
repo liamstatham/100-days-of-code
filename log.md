@@ -263,3 +263,9 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's Progress**:
   - Working on Arithmetic arranger project for FCC cert
   - more list learning, very interesting. Should separate the sums before adding to a list...
+
+### Day 27: Jan 27, Wednesday
+
+**Today's Progress**:
+  - Finished the first freecodecamp project, just need to submit it!
+  - spent a long time (way longer than the hour on it!)
