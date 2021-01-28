@@ -269,3 +269,9 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's Progress**:
   - Finished the first freecodecamp project, just need to submit it!
   - spent a long time (way longer than the hour on it!)
+
+### Day 28: Jan 28, Thursday
+
+**Today's Progress**:
+    - Arithmetic_arranger project should* be done.
+    - The project does everything and formats everything as it should, but the replit autograder isn't passing it!
