@@ -275,3 +275,9 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's Progress**:
     - Arithmetic_arranger project should* be done.
     - The project does everything and formats everything as it should, but the replit autograder isn't passing it!
+
+### Day 29: Jan 29, Friday
+
+**Today's Progress**:
+  - Finished the Arithmetic_arranger project and passed the freecodecamp first project!
+  - Started 2nd project for certification: Time_Calculator which seems quite tough 
