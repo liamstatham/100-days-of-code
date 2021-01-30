@@ -280,4 +280,10 @@ Didn't continue the data viz examples as they were a bit boring.
 
 **Today's Progress**:
   - Finished the Arithmetic_arranger project and passed the freecodecamp first project!
-  - Started 2nd project for certification: Time_Calculator which seems quite tough 
+  - Started 2nd project for certification: Time_Calculator which seems quite tough
+
+### Day 30: Jan 30, Saturday
+
+**Today's Progress**:
+  - Finished the Time_Calculator project on freecodecamp
+  - learnt a lot about datetime and time modules
