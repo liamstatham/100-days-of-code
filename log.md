@@ -287,3 +287,9 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's Progress**:
   - Finished the Time_Calculator project on freecodecamp
   - learnt a lot about datetime and time modules
+
+### Day 31: Jan 31, Sunday
+
+**Today's Progress**:
+  - Made a start on the Budget App project
+  - Mostly done, learnt a lot about Classes, functions and unit testing
