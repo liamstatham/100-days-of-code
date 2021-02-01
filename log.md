@@ -293,3 +293,11 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's Progress**:
   - Made a start on the Budget App project
   - Mostly done, learnt a lot about Classes, functions and unit testing
+
+
+### Day 32: Feb 1, Monday
+
+**Today's Progress**:
+  - Continued work on the budget app
+  - Lots of class/function work
+  - Very interesting 
