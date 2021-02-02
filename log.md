@@ -300,4 +300,14 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's Progress**:
   - Continued work on the budget app
   - Lots of class/function work
-  - Very interesting 
+  - Very interesting
+
+### Day 33: Feb 2, Tuesday
+
+**Today's Progress**:
+  - James is 2 today! So had to fit it in around his nap time!
+  - Did a bit more work on the budget app, all functions are now in the class
+  - need to start the other function out of the class "create spend chart"
+  - had a quick look, looks very dificult and I need a fresh head to start this one.
+
+Liam Statham
