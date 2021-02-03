@@ -308,6 +308,12 @@ Didn't continue the data viz examples as they were a bit boring.
   - James is 2 today! So had to fit it in around his nap time!
   - Did a bit more work on the budget app, all functions are now in the class
   - need to start the other function out of the class "create spend chart"
-  - had a quick look, looks very dificult and I need a fresh head to start this one.
+  - had a quick look, looks very difficult and I need a fresh head to start this one.
+
+### Day 34: Feb 3, Wednesday
+
+**Today's Progress**:
+  - Not a good day, not well!
+  - struggling to get my head around the weird text chart output
 
 Liam Statham
