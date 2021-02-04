@@ -316,4 +316,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - Not a good day, not well!
   - struggling to get my head around the weird text chart output
 
+### Day 35: Feb 4, Thursday
+
+**Today's Progress**:
+  - Finished the budget app, had to fudge it though as I'm sure the auto grader is broken!
+  - Made a start on the 4th Project of the cert. Polygon area calculator.
+  - Looks quite fun.
+
 Liam Statham
