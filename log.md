@@ -323,4 +323,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - Made a start on the 4th Project of the cert. Polygon area calculator.
   - Looks quite fun.
 
+### Day 36: Feb 5, Friday
+
+**Today's Progress**:
+  - Finished the Polygon area calculator, spent way more than an hour on it today, but smashed it!
+  - 1 more project to complete until certification!
+  - https://repl.it/@LiamStatham/boilerplate-polygon-area-calculator-1
+
 Liam Statham
