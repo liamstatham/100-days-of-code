@@ -330,4 +330,15 @@ Didn't continue the data viz examples as they were a bit boring.
   - 1 more project to complete until certification!
   - https://repl.it/@LiamStatham/boilerplate-polygon-area-calculator-1
 
+### Day 37: Feb 6, Saturday
+
+**Today's progress**:
+  - Finished the certification!
+  - Final project was a probability calculator, needed help with the maths but the code was fine!
+
+### Day 38: Feb 7, Sunday
+
+**Today's progress**:
+  - Made a start on web design/front end. Think this is where I want to head.
+  - Refreshed knowledge on HTML/HTML5, breezed through it in around 2 hours. 
 Liam Statham
