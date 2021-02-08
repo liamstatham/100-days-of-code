@@ -340,5 +340,12 @@ Didn't continue the data viz examples as they were a bit boring.
 
 **Today's progress**:
   - Made a start on web design/front end. Think this is where I want to head.
-  - Refreshed knowledge on HTML/HTML5, breezed through it in around 2 hours. 
+  - Refreshed knowledge on HTML/HTML5, breezed through it in around 2 hours.
+
+### Day 38: Feb 7, Sunday
+
+**Today's progress**:
+  - Taking a dive into javascript
+  - Spoke to some devs at work, advised that things are moving towards javascript and it's probably good to learn.
+  - Started the course on fcc!
 Liam Statham
