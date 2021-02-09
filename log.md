@@ -342,10 +342,17 @@ Didn't continue the data viz examples as they were a bit boring.
   - Made a start on web design/front end. Think this is where I want to head.
   - Refreshed knowledge on HTML/HTML5, breezed through it in around 2 hours.
 
-### Day 38: Feb 7, Sunday
+### Day 39: Feb 8, Monday
 
 **Today's progress**:
   - Taking a dive into javascript
   - Spoke to some devs at work, advised that things are moving towards javascript and it's probably good to learn.
   - Started the course on fcc!
+
+### Day 40: Feb 9, Tuesday
+
+**Today's progress**:
+  - More javascript, done a fair bit of catching up with the syntax changes from python
+  - did a lot of reading javascript wise
+  
 Liam Statham
