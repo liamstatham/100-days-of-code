@@ -354,5 +354,12 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - More javascript, done a fair bit of catching up with the syntax changes from python
   - did a lot of reading javascript wise
-  
+
+### Day 41: Feb 10, Wednesday
+
+**Today's progress**:
+  - Even more javascrip, makes sense, seems way more flexible than python
+  - made a little card counting script
+  - learnt about js objects and calling/changing them
+  - Spent more than an hour, 80% through the course though!
 Liam Statham
