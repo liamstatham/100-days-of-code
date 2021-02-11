@@ -358,8 +358,15 @@ Didn't continue the data viz examples as they were a bit boring.
 ### Day 41: Feb 10, Wednesday
 
 **Today's progress**:
-  - Even more javascrip, makes sense, seems way more flexible than python
+  - Even more javascript, makes sense, seems way more flexible than python
   - made a little card counting script
   - learnt about js objects and calling/changing them
   - Spent more than an hour, 80% through the course though!
+
+### Day 42: Feb 11, Thursday
+
+**Today's progress**:
+  - More JavaScript!
+  - Learnt about modifying JSON objects using my own functions
+  - Made contact with the dev manager at work to see what's best to learn for an opportunity... 
 Liam Statham
