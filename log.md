@@ -368,5 +368,13 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - More JavaScript!
   - Learnt about modifying JSON objects using my own functions
-  - Made contact with the dev manager at work to see what's best to learn for an opportunity... 
+  - Made contact with the dev manager at work to see what's best to learn for an opportunity...
+
+### Day 43: Feb 12, Friday
+
+**Today's progress**:
+  - Started on C# syntax, this is where my pathway into a job is
+  - Signed up to pluralsight, and started the c# fundamentals videos and projects
+  - https://app.pluralsight.com/course-player?clipId=3f7b7f5e-8a98-418c-8733-45ebdfcf094c
+  
 Liam Statham
