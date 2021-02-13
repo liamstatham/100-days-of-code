@@ -376,5 +376,12 @@ Didn't continue the data viz examples as they were a bit boring.
   - Started on C# syntax, this is where my pathway into a job is
   - Signed up to pluralsight, and started the c# fundamentals videos and projects
   - https://app.pluralsight.com/course-player?clipId=3f7b7f5e-8a98-418c-8733-45ebdfcf094c
-  
+
+### Day 44: Feb 13, Saturday
+
+**Today's progress**:
+  - Busy day today, but still managed to squeeze in an hour of C#
+  - Enjoying the work along stuff with pluralsight, where you have to figure out what to do before the answer is provided.
+  - https://app.pluralsight.com/course-player?clipId=1acccfd3-3a64-4719-9bbb-8dc3a43b1c64
+
 Liam Statham
