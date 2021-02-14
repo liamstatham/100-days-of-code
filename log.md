@@ -384,4 +384,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - Enjoying the work along stuff with pluralsight, where you have to figure out what to do before the answer is provided.
   - https://app.pluralsight.com/course-player?clipId=1acccfd3-3a64-4719-9bbb-8dc3a43b1c64
 
+### Day 45: Feb 14, Sunday
+
+**Today's progress**:
+  - Loads more C#, good few hours, learnt more syntax, code encapsulation, classes, objects, methods etc!
+  - Loving it.
+  - https://app.pluralsight.com/course-player?clipId=54eb1aab-f19e-4828-b4cd-761873608479
+
 Liam Statham
