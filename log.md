@@ -396,6 +396,10 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - https://app.pluralsight.com/course-player?clipId=da67bd8b-7dec-4347-ab62-da09aa2dc70f
   - More C# and an intro into unit testing with Xunit
+<<<<<<< HEAD
   - Code refactoring
 
+=======
+  - Code refactoring 
+>>>>>>> 2d00488051d62a3543651b2a7e5a2e66cb6a9536
 Liam Statham
