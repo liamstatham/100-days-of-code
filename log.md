@@ -391,4 +391,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - Loving it.
   - https://app.pluralsight.com/course-player?clipId=54eb1aab-f19e-4828-b4cd-761873608479
 
+### Day 46: Feb 15, Monday
+
+**Today's progress**:
+  - https://app.pluralsight.com/course-player?clipId=da67bd8b-7dec-4347-ab62-da09aa2dc70f
+  - More C# and an intro into unit testing with Xunit
+  - Code refactoring
+
 Liam Statham
