@@ -404,6 +404,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - Reference types vs value types
   - more unit testing
   - More C#!
+<<<<<<< HEAD
   - https://app.pluralsight.com/course-player?clipId=1428326e-49f9-4067-a655-900c87d8253d
 
+=======
+  
+>>>>>>> cdd955dc5a469035bd2cd391e1a89f5dfe756d1a
 Liam Statham
