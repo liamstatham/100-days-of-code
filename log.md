@@ -416,7 +416,7 @@ Didn't continue the data viz examples as they were a bit boring.
   - very busy day at work and no time this evening, so struggled!
   - https://app.pluralsight.com/course-player?clipId=83f514dd-e6e8-441e-a9e7-19243615ddbd
 
-### Day 48: Feb 17, Wednesday
+### Day 49: Feb 18, Thursday
 
 **Today's progress**:
   - C# loops, jumping statements (break, continue)
@@ -424,4 +424,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - Try Catch exception handling
   - https://app.pluralsight.com/course-player?clipId=36877d9c-72dd-4c46-a883-8538f5de1c54
 
+### Day 50: Feb 19, Friday
+
+**Today's progress**:
+  - Started working on a new logfile project in C#
+  - Lots to learn!
+  - Defining properties etc!
+  - https://app.pluralsight.com/course-player?clipId=36bbca95-96bb-4e5b-8efd-4bb324e68d85
 Liam Statham
