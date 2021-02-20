@@ -431,4 +431,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - Lots to learn!
   - Defining properties etc!
   - https://app.pluralsight.com/course-player?clipId=36bbca95-96bb-4e5b-8efd-4bb324e68d85
+
+### Day 51: Feb 20, Saturday
+
+**Today's progress**:
+  - Made a lot of progress on my c# project
+  - splitting a lot of code into methods/classes
 Liam Statham
