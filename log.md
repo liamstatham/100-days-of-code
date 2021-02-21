@@ -437,4 +437,14 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - Made a lot of progress on my c# project
   - splitting a lot of code into methods/classes
+
+### Day 52: Feb 21, Sunday
+
+**Today's progress**:
+  - More work on the log file app in C#
+  - Had to create a new project in VS, rather than VS code.
+  - Learnt more about methods/Classes
+  - Found the dataframes nuget, looks very similar to python
+  - Need to continue the videos on pluralsight whilst working on the projects.
+  
 Liam Statham
