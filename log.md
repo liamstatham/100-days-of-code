@@ -446,5 +446,13 @@ Didn't continue the data viz examples as they were a bit boring.
   - Learnt more about methods/Classes
   - Found the dataframes nuget, looks very similar to python
   - Need to continue the videos on pluralsight whilst working on the projects.
-  
+
+### Day 53: Feb 22, Monday
+
+**Today's progress**:
+  - More log file work!
+  - Figured out how to split lines into words safely, into a string array
+  - Broke everything down into smaller methods
+  - Need to learn about data tables or data frames and then into a database, or just a CSV from data. 
+
 Liam Statham
