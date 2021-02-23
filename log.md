@@ -453,6 +453,14 @@ Didn't continue the data viz examples as they were a bit boring.
   - More log file work!
   - Figured out how to split lines into words safely, into a string array
   - Broke everything down into smaller methods
-  - Need to learn about data tables or data frames and then into a database, or just a CSV from data. 
+  - Need to learn about data tables or data frames and then into a database, or just a CSV from data.
+
+### Day 54: Feb 23, Tuesday
+
+**Today's progress**:
+    - More log file work!
+    - New Class for sqlite stuff
+    - Another method to pass a name to new database ?
+    - SQLite work, but need to get data from intodatatable method to table!
 
 Liam Statham
