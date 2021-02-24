@@ -463,4 +463,12 @@ Didn't continue the data viz examples as they were a bit boring.
     - Another method to pass a name to new database ?
     - SQLite work, but need to get data from intodatatable method to table!
 
+### Day 55: Feb 24, Wednesday
+
+**Today's progress**:
+  - Some pluralsight videos
+  - Learn about c# delegates and events
+  - Made a start on OOP module
+  - Deriving from base classes  
+
 Liam Statham
