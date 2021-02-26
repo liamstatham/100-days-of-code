@@ -471,4 +471,22 @@ Didn't continue the data viz examples as they were a bit boring.
   - Made a start on OOP module
   - Deriving from base classes  
 
+### Day 56: Feb 25, Thursday
+
+**Today's progress**:
+  - Abstract Classes/polymorphism
+  - Interface definition
+  - Refactoring and encapsulation!
+  - Finished the C# fundamentals video course
+
+### Day 57: Feb 26, Friday
+
+**Today's progress**:
+    - Using File to check for/create new csv file with logfile fname
+    - using a new method to create that csv
+    - using another method to write to it
+    - https://stackoverflow.com/questions/18757097/writing-data-into-csv-file-in-c-sharp
+    -
+
+
 Liam Statham
