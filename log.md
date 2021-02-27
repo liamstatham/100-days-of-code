@@ -486,7 +486,14 @@ Didn't continue the data viz examples as they were a bit boring.
     - using a new method to create that csv
     - using another method to write to it
     - https://stackoverflow.com/questions/18757097/writing-data-into-csv-file-in-c-sharp
-    -
+
+### Day 58: Feb 27, Saturday
+
+**Today's progress**:
+  - Big progress on c# project
+  - log file is now writing heading and logs to csv correctly
+  - more refactoring needed, but works!
+  - need to parse datetime and make it work with a real log file. 
 
 
 Liam Statham
