@@ -493,7 +493,14 @@ Didn't continue the data viz examples as they were a bit boring.
   - Big progress on c# project
   - log file is now writing heading and logs to csv correctly
   - more refactoring needed, but works!
-  - need to parse datetime and make it work with a real log file. 
+  - need to parse datetime and make it work with a real log file.
+
+### Day 59: Feb 28, Sunday
+
+**Today's progress**:
+  - Refactoring and added saftey measures to the log file parse
+  - can now parse any of works log files, only uses lines which start with a number
+  - less than 30 seconds to put a full log file into csv
 
 
 Liam Statham
