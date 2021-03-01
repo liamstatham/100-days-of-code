@@ -502,5 +502,12 @@ Didn't continue the data viz examples as they were a bit boring.
   - can now parse any of works log files, only uses lines which start with a number
   - less than 30 seconds to put a full log file into csv
 
+### Day 60: March 01, Monday
+
+**Today's progress**:
+    - Difficult and long day at work today, but still ground over an hour out!
+    - Added Xunit unit testing and 2 simple file name tests to my project
+    - Took a while to figure out, but it's all learning at the end of the day!
+
 
 Liam Statham
