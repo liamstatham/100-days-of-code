@@ -509,5 +509,11 @@ Didn't continue the data viz examples as they were a bit boring.
     - Added Xunit unit testing and 2 simple file name tests to my project
     - Took a while to figure out, but it's all learning at the end of the day!
 
+### Day 61: March 02, Tuesday
+
+**Today's progress**:
+  - More unit testing and Refactoring
+  - Tomorrow, should break creating headings in csv file into a new method and create tests for it
+  - Enjoying going over my code and making it more safe!
 
 Liam Statham
