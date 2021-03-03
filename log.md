@@ -516,4 +516,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - Tomorrow, should break creating headings in csv file into a new method and create tests for it
   - Enjoying going over my code and making it more safe!
 
+### Day 62: March 03, Wednesday
+
+**Today's progress**:
+  - More unit testing and Refactoring
+  - Enhancing usability of the app
+  - Started to create SQL class and ability to for user choice 
+
 Liam Statham
