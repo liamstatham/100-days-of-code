@@ -521,6 +521,13 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - More unit testing and Refactoring
   - Enhancing usability of the app
-  - Started to create SQL class and ability to for user choice 
+  - Started to create SQL class and ability to for user choice
+
+### Day 63: March 04, Thursday
+
+**Today's progress**:
+  - Tried SQLite but DataTables seem a lot more valid for my Program
+  - spent time adding a new data table class, with methods and calling from my Program
+
 
 Liam Statham
