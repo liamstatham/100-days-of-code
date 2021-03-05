@@ -529,5 +529,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - Tried SQLite but DataTables seem a lot more valid for my Program
   - spent time adding a new data table class, with methods and calling from my Program
 
+### Day 64: March 05, Friday
+
+**Today's progress**:
+  - Datatable work and program improvement
+  - Changed the contents that are pulled from log files
+  - created method to add data to tables from program
 
 Liam Statham
