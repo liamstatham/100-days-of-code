@@ -536,4 +536,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - Changed the contents that are pulled from log files
   - created method to add data to tables from program
 
+### Day 65: March 06, Saturday
+
+**Today's progress**:
+  - Got datatables working, but in one big class which needs Refactoring
+  - need to add search/filtering/then to csv
+  - Potentially make it more efficient...
+
 Liam Statham
