@@ -543,4 +543,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - need to add search/filtering/then to csv
   - Potentially make it more efficient...
 
+### Day 66: March 07, Sunday
+
+**Today's progress**:
+  - Added methods to filter data tables
+  - Added extra steps in main program, more usability
+  - a bit more testing...
+
 Liam Statham
