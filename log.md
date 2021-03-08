@@ -550,4 +550,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - Added extra steps in main program, more usability
   - a bit more testing...
 
+### Day 67: March 08, Monday
+
+**Today's progress**:
+  -https://app.pluralsight.com/course-player?clipId=1c51f836-d151-4708-8452-345d6daa9855
+  - Started learning asp.net core, hopefully building a web app
+
+  - but started learning MVC as it's more relevant to work instead. 
 Liam Statham
