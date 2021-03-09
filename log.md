@@ -556,5 +556,12 @@ Didn't continue the data viz examples as they were a bit boring.
   -https://app.pluralsight.com/course-player?clipId=1c51f836-d151-4708-8452-345d6daa9855
   - Started learning asp.net core, hopefully building a web app
 
-  - but started learning MVC as it's more relevant to work instead. 
+  - but started learning MVC as it's more relevant to work instead.
+
+### Day 68: March 09, Tuesday
+
+**Today's progress**:
+  - Long day at work 11 hours
+  - Still managed an hour of ASP.NET MVC Learning
+  - Separation of duties for the Model view and controller 
 Liam Statham
