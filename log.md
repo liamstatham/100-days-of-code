@@ -563,5 +563,13 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - Long day at work 11 hours
   - Still managed an hour of ASP.NET MVC Learning
-  - Separation of duties for the Model view and controller 
+  - Separation of duties for the Model view and controller
+
+### Day 69: March 10, Wednesday
+
+**Today's progress**:
+  - More MVC learning
+  - Application start and configuration (notes)
+  - more emphasis on separation of duties 
+
 Liam Statham
