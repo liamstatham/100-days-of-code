@@ -570,6 +570,13 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - More MVC learning
   - Application start and configuration (notes)
-  - more emphasis on separation of duties 
+  - more emphasis on separation of duties
+
+### Day 70: March 13, Saturday
+
+**Today's progress**:
+  - MVC controllers
+  - API controllers and how HTTP controllers work with Examples
+  
 
 Liam Statham
