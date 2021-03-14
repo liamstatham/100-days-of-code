@@ -577,6 +577,12 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - MVC controllers
   - API controllers and how HTTP controllers work with Examples
+
+### Day 71: March 14, Sunday
+
+**Today's progress**:  
+  - More MVC controller work
+  - API controller and building api
   
 
 Liam Statham
