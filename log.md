@@ -583,6 +583,13 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:  
   - More MVC controller work
   - API controller and building api
-  
+
+### Day 72: March 15, Monday
+
+**Today's progress**:  
+  - More Controller learning
+  - Some work on models
+  - Learning about Enums 
+
 
 Liam Statham
