@@ -589,7 +589,14 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:  
   - More Controller learning
   - Some work on models
-  - Learning about Enums 
+  - Learning about Enums
 
+### Day 73: March 16, Tuesday
+
+**Today's progress**:  
+  - MVC models in depth
+  - Data annotations for data validation
+  - model binding
+  - GET/POST work. 
 
 Liam Statham
