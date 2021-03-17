@@ -597,6 +597,13 @@ Didn't continue the data viz examples as they were a bit boring.
   - MVC models in depth
   - Data annotations for data validation
   - model binding
-  - GET/POST work. 
+  - GET/POST work.
+
+### Day 74: March 17, Wednesday
+
+**Today's progress**:
+  - MVC actions/redirects
+  - Updating records using GET/POST actions in the controller/services
+  - An intro into Entity Framework
 
 Liam Statham
