@@ -606,4 +606,12 @@ Didn't continue the data viz examples as they were a bit boring.
   - Updating records using GET/POST actions in the controller/services
   - An intro into Entity Framework
 
+### Day 75: March 18, Thursday
+
+**Today's progress**:
+  - c# clean code fundamentals videos
+  - Entity framework and setting up databases
+  - entity framework for GET/POST requests 
+
+
 Liam Statham
