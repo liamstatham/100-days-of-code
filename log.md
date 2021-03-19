@@ -611,7 +611,14 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - c# clean code fundamentals videos
   - Entity framework and setting up databases
-  - entity framework for GET/POST requests 
+  - entity framework for GET/POST requests
+
+### Day 76: March 19, Friday
+
+**Today's progress**:
+  - Made a quick MVC website with in memory data for toy car auditing
+  - nice to do it without following a tutorial!
+  - Will need to keep doing it.
 
 
 Liam Statham
