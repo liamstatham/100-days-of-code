@@ -620,5 +620,12 @@ Didn't continue the data viz examples as they were a bit boring.
   - nice to do it without following a tutorial!
   - Will need to keep doing it.
 
+### Day 77: March 20, Saturday
+
+**Today's progress**:
+  - Added some improvements
+  - Need to make the in memory database work!
+  - Very interesting 
+
 
 Liam Statham
