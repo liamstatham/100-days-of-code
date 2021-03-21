@@ -625,7 +625,13 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - Added some improvements
   - Need to make the in memory database work!
-  - Very interesting 
+  - Very interesting
 
+### Day 78: March 21, Sunday
+
+**Today's progress**:
+  - Added in memory database, along with add and edit control
+  - Really enjoying it!
+  - The issue was it needed to use SingleInstance (singleton)
 
 Liam Statham
