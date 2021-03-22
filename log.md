@@ -634,4 +634,12 @@ Didn't continue the data viz examples as they were a bit boring.
   - Really enjoying it!
   - The issue was it needed to use SingleInstance (singleton)
 
+### Day 79: March 22, Monday
+
+**Today's progress**:
+  - Added a SQL database to Jims Cars
+  - Can now Add, edit, view and delete into the database
+  - Also watched another pluralsight video
+  - Tomorrow I need to learn about styling!
+
 Liam Statham
