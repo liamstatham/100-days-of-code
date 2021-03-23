@@ -642,4 +642,12 @@ Didn't continue the data viz examples as they were a bit boring.
   - Also watched another pluralsight video
   - Tomorrow I need to learn about styling!
 
+### Day 80: March 23, Tuesday
+
+**Today's progress**:
+  - Work on Razor Views and how to use
+    - partial Views
+    - layout Views
+    - @model stuff and alerts effectively
+  - jquery validation 
 Liam Statham
