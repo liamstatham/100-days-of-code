@@ -649,5 +649,13 @@ Didn't continue the data viz examples as they were a bit boring.
     - partial Views
     - layout Views
     - @model stuff and alerts effectively
-  - jquery validation 
+  - jquery validation
+
+### Day 81: March 24, Wednesday
+
+**Today's progress**:
+  - Finished the ASP.NET MVC course on pluralsight
+  - Learned how to deploy MVC websites to IIS via filesystem
+  - Learned a bit about IIS and local SQL server instances
+
 Liam Statham
