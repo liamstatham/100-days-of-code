@@ -658,4 +658,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - Learned how to deploy MVC websites to IIS via filesystem
   - Learned a bit about IIS and local SQL server instances
 
+### Day 82: March 25, Thursday
+
+**Today's progress**:
+  - Started another course on Collections in c#
+  - I know most of it, but want to make sure I know it al
+  - did a few experiments 
+
 Liam Statham
