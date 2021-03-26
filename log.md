@@ -663,6 +663,13 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - Started another course on Collections in c#
   - I know most of it, but want to make sure I know it al
-  - did a few experiments 
+  - did a few experiments
+
+### Day 83: March 26, Friday
+
+**Today's progress**:
+  - Started the project test on C# fundamentals pluralsight
+  - 54% of the way through, need to learn a bit more linq!
+  - really need to learn some bootstrap, I think I prefer web dev.
 
 Liam Statham
