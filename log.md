@@ -672,4 +672,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - 54% of the way through, need to learn a bit more linq!
   - really need to learn some bootstrap, I think I prefer web dev.
 
+### Day 84: March 27, Saturday
+
+**Today's progress**:
+  - Started on learning bootstrap/css/js/angular on a cool new course
+  - sticking with asp net core for web apps
+  - new project - dutch treat?
 Liam Statham
