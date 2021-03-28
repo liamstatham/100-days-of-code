@@ -678,4 +678,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - Started on learning bootstrap/css/js/angular on a cool new course
   - sticking with asp net core for web apps
   - new project - dutch treat?
+
+### Day 85: March 28, Sunday
+
+**Today's progress**:
+  - A big look into HTML
+  - Serving static files via webservers 
+
 Liam Statham
