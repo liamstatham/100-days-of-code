@@ -683,6 +683,12 @@ Didn't continue the data viz examples as they were a bit boring.
 
 **Today's progress**:
   - A big look into HTML
-  - Serving static files via webservers 
+  - Serving static files via webservers
+
+### Day 86: March 29, Monday
+
+**Today's progress**:
+  - CSS learning (yes actual style!)
+  - decent notes and examples on this in one notes
 
 Liam Statham
