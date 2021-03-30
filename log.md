@@ -691,4 +691,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - CSS learning (yes actual style!)
   - decent notes and examples on this in one notes
 
+### Day 87: March 30, Tuesday
+
+**Today's progress**:
+  - Lots of Azure work fundamentals/dev ops
+  - an intro into JS and some code 
+
 Liam Statham
