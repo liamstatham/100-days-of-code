@@ -695,6 +695,13 @@ Didn't continue the data viz examples as they were a bit boring.
 
 **Today's progress**:
   - Lots of Azure work fundamentals/dev ops
-  - an intro into JS and some code 
+  - an intro into JS and some code
+
+### Day 88: March 31, Wednesday
+
+**Today's progress**:
+  - More azure fundamentals work
+  - some JavaScript revision
+  
 
 Liam Statham
