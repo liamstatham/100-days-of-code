@@ -702,6 +702,12 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - More azure fundamentals work
   - some JavaScript revision
-  
+
+### Day 89: April 01, Thursday
+
+**Today's progress**:
+  - More Azure!
+  - More JavaScript
+  - some jquery adding into the webpage
 
 Liam Statham
