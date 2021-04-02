@@ -710,4 +710,11 @@ Didn't continue the data viz examples as they were a bit boring.
   - More JavaScript
   - some jquery adding into the webpage
 
+### Day 90: April 02, Friday
+
+**Today's progress**:
+  - More Azure fundamentals
+  - asp.net core mvc stuff!
+  - A bit of jquery changing 
+
 Liam Statham
