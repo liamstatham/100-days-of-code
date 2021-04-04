@@ -715,6 +715,12 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - More Azure fundamentals
   - asp.net core mvc stuff!
-  - A bit of jquery changing 
+  - A bit of jquery changing
+
+### Day 92: April 03, Saturday
+
+**Today's progress**:
+  - Azure fundamentals
+    - Networking and storage
 
 Liam Statham
