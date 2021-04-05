@@ -717,10 +717,16 @@ Didn't continue the data viz examples as they were a bit boring.
   - asp.net core mvc stuff!
   - A bit of jquery changing
 
-### Day 92: April 03, Saturday
+### Day 91: April 04, Sunday
 
 **Today's progress**:
   - Azure fundamentals
     - Networking and storage
+
+### Day 92: April 05, Monday
+
+**Today's progress**:
+  - MVC 6 work with controllers and Views
+  - created a layout page and updated for aspcore5
 
 Liam Statham
