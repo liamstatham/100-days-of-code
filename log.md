@@ -729,4 +729,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - MVC 6 work with controllers and Views
   - created a layout page and updated for aspcore5
 
+### Day 93: April 06, Tuesday
+
+**Today's progress**:
+  - No actual code Today
+  - More Azure fundamentals/devops 
+
 Liam Statham
