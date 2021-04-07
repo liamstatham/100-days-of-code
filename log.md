@@ -733,6 +733,12 @@ Didn't continue the data viz examples as they were a bit boring.
 
 **Today's progress**:
   - No actual code Today
-  - More Azure fundamentals/devops 
+  - More Azure fundamentals/devops
 
+### Day 94: April 07, Wednesday
+
+**Today's progress**:
+  - Added more views, menu with CSS styling
+  - Added razor pages and used tag helpers
+  - More Azure fundamentals 
 Liam Statham
