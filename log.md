@@ -740,5 +740,11 @@ Didn't continue the data viz examples as they were a bit boring.
 **Today's progress**:
   - Added more views, menu with CSS styling
   - Added razor pages and used tag helpers
-  - More Azure fundamentals 
+  - More Azure fundamentals
+
+### Day 95: April 08, Thursday
+
+**Today's progress**:
+  - Lots of Azure fundamentals
+  - IoT devices and azure services. 
 Liam Statham
