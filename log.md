@@ -746,5 +746,11 @@ Didn't continue the data viz examples as they were a bit boring.
 
 **Today's progress**:
   - Lots of Azure fundamentals
-  - IoT devices and azure services. 
+  - IoT devices and azure services.
+
+### Day 96: April 09, Friday
+
+**Today's progress**:
+  - More azure
+  - MVC views and nameing html parts of a form, to pass as an object to a model 
 Liam Statham
