@@ -752,5 +752,12 @@ Didn't continue the data viz examples as they were a bit boring.
 
 **Today's progress**:
   - More azure
-  - MVC views and nameing html parts of a form, to pass as an object to a model 
+  - MVC views and nameing html parts of a form, to pass as an object to a model
+
+### Day 97: April 10, Saturday
+
+**Today's progress**:
+  - ViewModel properties and binding
+  - JS validation for forms
+  - Azure fundamentals
 Liam Statham
