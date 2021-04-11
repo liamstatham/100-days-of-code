@@ -760,4 +760,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - ViewModel properties and binding
   - JS validation for forms
   - Azure fundamentals
+
+### Day 98: April 11, Sunday
+
+**Today's progress**:
+  - Added services to the web projects
+  - added logging ,for a test email send service 
 Liam Statham
