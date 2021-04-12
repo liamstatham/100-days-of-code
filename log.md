@@ -765,5 +765,13 @@ Didn't continue the data viz examples as they were a bit boring.
 
 **Today's progress**:
   - Added services to the web projects
-  - added logging ,for a test email send service 
+  - added logging ,for a test email send service
+
+### Day 99: April 12, Monday
+
+**Today's progress**:
+  - Job offer?!
+  - Loads of azure work and fundamentals
+  - First day of 5am club
+
 Liam Statham
