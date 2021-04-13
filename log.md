@@ -774,4 +774,10 @@ Didn't continue the data viz examples as they were a bit boring.
   - Loads of azure work and fundamentals
   - First day of 5am club
 
+### Day 100: April 13, Tuesday
+
+**Today's progress**:
+  - Lots of bootstrap work in the web project
+  - changed from CSS to bootstrap 
+
 Liam Statham
